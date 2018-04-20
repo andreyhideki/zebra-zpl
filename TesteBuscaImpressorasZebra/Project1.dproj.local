@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/12 14:34:55.000.584,=C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/12 14:36:51.000.289,=C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/12/12 15:15:19.000.563,=C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/20 08:47:35.000.669,=C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/20 09:12:30.000.657,C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\zacarias\TesteBuscaImpressoras\Unit1.pas</Transaction>
+    <Transaction>2018/04/20 09:12:30.000.657,C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\zacarias\TesteBuscaImpressoras\Unit1.dfm</Transaction>
+    <Transaction>2018/04/20 09:12:33.000.074,C:\Users\hideki\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\zacarias\TesteBuscaImpressoras\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
